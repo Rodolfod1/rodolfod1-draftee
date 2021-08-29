@@ -1,0 +1,30 @@
+{
+  "name": "recruiter",
+  "version": "1.0.0",
+  "description": "MERN full stack app to get a desired profile",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rodolfod1/rodolfod1-draftee.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Rodolfod1/rodolfod1-draftee/issues"
+  },
+  "homepage": "https://github.com/Rodolfod1/rodolfod1-draftee#readme",
+  "dependencies": {
+    "concurrently": "^6.2.1",
+    "express": "^4.17.1",
+    "mongodb": "^4.1.1",
+    "mongoose": "^6.0.2",
+    "passport": "^0.4.1"
+  },
+  "devDependencies": {
+    "dotenv": "^10.0.0",
+    "nodemon": "^2.0.12"
+  }
+}
